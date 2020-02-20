@@ -1,0 +1,21 @@
+{
+  "name": "keklol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.3",
+    "webpack": "^4.41.6"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
